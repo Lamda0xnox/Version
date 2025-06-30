@@ -1,0 +1,63 @@
+Changelog for v2.5.6.0 – Shadow Control
+
+[ Panel Side ]
+  • Options Added Disable Task Manager
+  • Options Added Disable UAC
+  • Options Added 60+ AV Site Blocker
+  • Options Added Disable Registry
+  • Options Added Disable Firewall
+  • Options Added WD Killer and Disable
+  • Options Added Disable Windows Update Permanently 
+  • Update in Task Manager Options
+  • Update After install File and Folder Hidden Fixed
+
+[ Client Side ]
+  • Updates in Code
+========================================================
+Changelog for v2.5.5.3 – Shadow Control
+
+[ Panel Side ]
+  • Builder Bug Fixed
+  • Added Assembly Cloner
+  • Added two mode in HVNC ( Clone & Direct Browse )
+
+[ Client Side ]
+  • Anti Debug Bug Fixed
+  • Junk Codes Removed
+
+[ Other Updates ]
+  • Package Updated
+========================================================
+Changelog for v2.5.5.2 – Shadow Control
+
+[Panel Side]
+• Keyword notify Bug Fixed
+• Auto Update Bug Fixed
+• Keylogger Bug Fixed
+• Added USB Spread option
+========================================================
+Changelog for v2.5.5.1 – Shadow Control
+
+[Panel Side]
+• Major Bug Fixed
+• Current Windows Bug Fixed
+• Remote Shell Bug Fixed
+• Builder Icon Bug Fixed
+========================================================
+Changelog for v2.5.5.0 – Shadow Control
+
+[Panel Side]
+• Updated in Panel icons
+• Added WinRE Persistent (You will receive connection even after resetting the OS)
+• Added Auto task save in json
+• Added secure communication for Server and Client
+
+[Client Side]
+• Client optimized and now more stable
+• Core improvements for better performance and lower resource usage.
+• Enhanced stealth, persistence, and secure communication with panel
+
+[Other]
+• Bypass Defender Runtime + Scantime
+• Bypass some Anti Virus at Scantime
+========================================================
